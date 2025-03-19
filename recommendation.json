@@ -1,0 +1,27 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "diseaseName": "Pepper Bell Bacterial Spot",
+    "recommendations": "Apply copper-based bactericides. Remove and destroy affected plant parts.",
+    "preventiveMeasures": "Use disease-free seeds, avoid overhead irrigation, and practice crop rotation."
+  },
+  "Pepper__bell___healthy": {
+    "diseaseName": "Pepper Bell Healthy",
+    "recommendations": "No treatment needed. Continue maintaining optimal growing conditions.",
+    "preventiveMeasures": "Ensure proper watering, provide balanced fertilization, and monitor for pests regularly."
+  },
+  "Potato___Early_blight": {
+    "diseaseName": "Potato Early Blight",
+    "recommendations": "Apply fungicides such as chlorothalonil or mancozeb. Remove and destroy infected leaves to reduce spread.",
+    "preventiveMeasures": "Use resistant potato varieties, maintain good soil drainage, and avoid working in fields when foliage is wet."
+  },
+  "Potato___Late_blight": {
+    "diseaseName": "Potato Late Blight",
+    "recommendations": "Apply fungicides like chlorothalonil or copper-based products. Remove and destroy infected plant debris.",
+    "preventiveMeasures": "Use resistant potato varieties, ensure proper spacing for air circulation, and avoid overhead watering."
+  },
+  "Potato___healthy": {
+    "diseaseName": "Potato Healthy",
+    "recommendations": "No treatment needed. Maintain current care practices.",
+    "preventiveMeasures": "Ensure consistent watering, apply balanced fertilization, and regularly check for early signs of pests or disease."
+  }
+}
