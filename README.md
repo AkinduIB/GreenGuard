@@ -44,9 +44,8 @@ Follow these steps to set up the GreenGuard project on your local machine:
 4. **Receive treatment recommendations** based on the detected disease.
 
 ## Screenshots
-![Home Screen](./screenshots/home_screen.png)
-![Upload Image](./screenshots/upload_screen.png)
-![Result Screen](./screenshots/result_screen.png)
+![Home Screen](./10.png)
+
 
 ## AI Model Integration
 GreenGuard uses a trained deep learning model to classify plant leaf images. The model was trained on datasets containing images of **potato, bell pepper, and tomato leaves** with different disease conditions.
